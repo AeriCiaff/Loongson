@@ -1,0 +1,13 @@
+test*
+
+__pycache__/
+
+output/
+
+db/
+
+.idea/
+
+.vscode
+
+*.sqlite3
